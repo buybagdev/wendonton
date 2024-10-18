@@ -1,5 +1,5 @@
 {
-  "url": "https://vip.buybag.me",                      
+  "url": "http://localhost:3000",                      
   "name": "BuyBag",                      
-  "iconUrl":  "https://assets.dedust.io/images/wend1.webp"
+  "iconUrl": "https://assets.dedust.io/images/wend1.webp"
 }
